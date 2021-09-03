@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <g opacity="0">
+        <circle cx="10" cy="70" r="5" fill="#fec6a1" stroke="navy" />
+        <circle cx="90" cy="70" r="5" fill="#fec6a1" stroke="navy" />
+        <circle cx="50" cy="40" r="7.5" fill="#fec6a1" stroke="navy" />
+        <circle cx="57.5" cy="40" r="1.5" fill="#fec6a1" stroke="navy" />
+        <circle cx="50" cy="32.5" r="1.5" fill="#fec6a1" stroke="navy" />
+        <circle cx="50" cy="47.5" r="1.5" fill="#fec6a1" stroke="navy" />
+    </g>
+    <g opacity="0">
+        <path d="M7.5,67.5 Q32.5 60 42.5 40 T 57.5 40 T 90 65 Q 50 72 7.5 67.5 z" stroke="navy" stroke-width="1"
+            fill="orange" />
+    </g>
+
+    <g>
+        <path d="M7.5,57.5q25,-7.5,35,-27.5t15,0t32.5,25q-40,7,-82.5,2.5z" stroke="navy" stroke-width="1"
+            fill="orange" />
+    </g>
+    <g opacity="0">
+        <path d="M42.5,40 Q50 47.5 57.5 40" stroke="navy" stroke-width="1" fill="transparent" />
+        <path d="M90,65 Q67.5 60 57.5 40" stroke="navy" stroke-width="1" fill="transparent" />
+        <path d="M90,65 Q50 60 10 65" stroke="navy" stroke-width="1" fill="transparent" />
+        <path d="M90,65 Q50 55 10 65" stroke="navy" stroke-width="0.5" fill="transparent" />
+    </g>
+</svg>
